@@ -19,7 +19,19 @@
 0. https://mirkomarras.github.io/dl-voice-noise/
 1. Learning noise robust ResNet-based speaker embedding for speaker : The Speaker and Language Recognition Workshop (Odyssey 2022)
 recognition
-2. 
+2. [VoxSRC2020](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/competition2020.html)
+3. Cam: Context-Aware Masking for Robust Speaker Verification
+****
+
+****
+#### Speaker recognition in language mismatch
+3. [VoxSRC2021](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/competition2021.html)
+****
+
+****
+#### Speaker recognition in duration, channel mismatch
+1. Deep Discriminative Embeddings for Duration Robust Speaker Verification.
+2. Channel invariant speaker embedding learning with joint multi-task and adversarial training
 ****
 
 ****
