@@ -5,6 +5,9 @@
 1. TD Bank voiceprint. https://www.tdbank.com/bank/tdvoiceprint.html : Biometric authentication
 2. Forensic and automatic speaker recognition system : forensic tests
 3. Secure smart home: A voiceprint and internet based authentication system for remote accessing : personalized service on smart devices
+4. [Speaker Identification Integrated Project (SIIP)](https://www.interpol.int/en/Who-we-are/Legal-framework/Information-communications-and-technology-ICT-law-projects/Speaker-Identification-Integrated-Project-SIIP)
+5. [ROXANNE Real time netwOrk, teXt and speaker ANalytics for combating orgaNized crimE](https://roxanne-euproject.org/)
+6. https://www.idrnd.ai/text-independent-voice-verification/?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDPIHvTDnUn4qSs7-kq1OqELlIMrd1NIg8zJudaRdSIihNPxoG-nK0hoCybEQAvD_BwE&gclsrc=aw.ds
 ****
 
 ****
