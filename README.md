@@ -10,7 +10,7 @@
 ****
 #### Speaker recognition baseline
 1. An overview of text-independent speaker recognition: From features to supervectors
-2. 
+2. Speaker Recognition Based on Deep Learning: An Overview
 ****
 #### Speaker recognition in noisy environments
 0. https://mirkomarras.github.io/dl-voice-noise/
@@ -24,4 +24,5 @@ recognition
 1. FGSM : Explaining and harnessing adversarial examples
 2. BIM : Adversarial machine learning at scale
 3. Fooling end-to-end speaker verification with adversarial examples
+4. Adversarial attacks on GMM i-vector based speaker verification systems
 ****
