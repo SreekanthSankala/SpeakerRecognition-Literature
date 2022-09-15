@@ -8,6 +8,7 @@
 4. [Speaker Identification Integrated Project (SIIP)](https://www.interpol.int/en/Who-we-are/Legal-framework/Information-communications-and-technology-ICT-law-projects/Speaker-Identification-Integrated-Project-SIIP)
 5. [ROXANNE Real time netwOrk, teXt and speaker ANalytics for combating orgaNized crimE](https://roxanne-euproject.org/)
 6. https://www.idrnd.ai/text-independent-voice-verification/?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDPIHvTDnUn4qSs7-kq1OqELlIMrd1NIg8zJudaRdSIihNPxoG-nK0hoCybEQAvD_BwE&gclsrc=aw.ds
+7. [In-Car Biometric Technology For Human Interaction](https://tech.hyundaimotorgroup.com/article/in-car-biometric-technology-for-human-interaction/)
 ****
 
 ****
