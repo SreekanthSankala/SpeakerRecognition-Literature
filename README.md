@@ -42,3 +42,8 @@ recognition
 3. Fooling end-to-end speaker verification with adversarial examples
 4. Adversarial attacks on GMM i-vector based speaker verification systems
 ****
+
+****
+#### Adversarial attacks presentations ####
+1. [Adversarial training with surrogates](https://www.youtube.com/watch?v=NQM0_7q6F5I)
+****
