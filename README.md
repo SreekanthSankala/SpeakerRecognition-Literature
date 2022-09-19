@@ -47,3 +47,11 @@ recognition
 #### Adversarial attacks presentations ####
 1. [Adversarial training with surrogates](https://www.youtube.com/watch?v=NQM0_7q6F5I)
 ****
+
+****
+#### Robust models ####
+1. [Adversarial training](https://www.youtube.com/watch?v=NQM0_7q6F5I)
+2. [Adversarial Weight Perturbation](https://www.youtube.com/watch?v=NQM0_7q6F5I)
+3. [Adversarial Weight Perturbation](https://www.youtube.com/watch?v=NQM0_7q6F5I)
+****
+
